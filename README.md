@@ -1,2 +1,2 @@
 # ecgTSA
-Process ECG data to generate RR tachograms
+Process ECG time series data to generate RR tachograms
