@@ -1,2 +1,2 @@
-# ecg-to-rrtachograms
+# ecgTSA
 Process ECG data to generate RR tachograms
