@@ -1,2 +1,2 @@
 # ecgTSA
-Process ECG time series data to generate RR tachograms
+MATLAB scripts for processing ECG time series data for generating R-R tachograms and analyzing dynamics
